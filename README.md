@@ -1,2 +1,5 @@
-# Ola Mundo
- Revisao Git
+# Olá, Mundo!
+
+Revisao Git e GitHub
+
+Repositorio de aula ao vivo
